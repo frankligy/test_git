@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import scanpy as sc
+import sctriangulate
+
 
 
 if __name__ == '__main__':
