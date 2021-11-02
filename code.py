@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
-import scanpy as sc
 import sctriangulate
 import scipy
 import os
+import sys
 
 
 
